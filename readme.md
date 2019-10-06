@@ -12,7 +12,7 @@ Every execution will save a new entry into the correspondent local data file.
 2. Execute `monitor.exe` with the argument `{task_name}`
     - if leave blank, the program will execute `default` task.
     
-3. Recored data will be saved to a table-delimited file named `{page_name}.txt` in `data` folder, with four columns:
+3. Recorded data will be saved to a tab-delimited file named `{page_name}.txt` in `data` folder, with four columns:
     - date (YYYY/mm/dd)
     - time (HH:MM:SS)
     - number of current online member
